@@ -2,15 +2,14 @@
 
 ## About
 
----
 
 - 2021년 숭실대학교 AI융합학부 오픈소스기초설계 과목 프로젝트 Repository
 
 
+---
+
 
 ## Project
-
----
 
 ### Realtime Emergency Exit Guidance
 
@@ -26,17 +25,14 @@
 
 
 - 예상 상황
-
-  ![Realtime Emergency Exit Guidance][/img/REEG.png]
-
   - 실시간 비상구 안내 시스템 적용 예제
-
-  ![Normal Emergency Exit Guidance][/img/BEG.png]
-
+  ![Realtime Emergency Exit Guidance](/img/REEG.png)
+  
   - 기존 비상구 안내 시스템 적용 예제
-
-
+  ![Normal Emergency Exit Guidance](/img/BEG.png)
+  
+---
 
 ## ETC
 
-- [제천 화재 사고 비상구 관련 뉴스][https://www.chosun.com/site/data/html_dir/2017/12/23/2017122300120.html]
+- [제천 화재 사고 비상구 관련 뉴스](https://www.chosun.com/site/data/html_dir/2017/12/23/2017122300120.html)
